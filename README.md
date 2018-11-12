@@ -1,3 +1,3 @@
-# recipe-buddy
+# Recipe Buddy
 Alexa Skill providing recipes containing requested ingredients
-Built at HackPrinceton 2018
+/n Built at HackPrinceton 2018
